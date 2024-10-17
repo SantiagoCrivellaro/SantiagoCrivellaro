@@ -38,6 +38,9 @@ My own website : https://santiagocrivellaro.github.io/ 😎
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=vscode&sort= > <img width ='32px' src ='https://seekicon.com/free-icon-download/visual-studio-code_2.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=netbeans&sort= > <img width ='32px' src ='https://blog.idrsolutions.com/app/uploads/2019/08/1200px-Apache_NetBeans_Logo.svg_-1-768x886.png'> </a>
+
 
 <br>
 <br>
