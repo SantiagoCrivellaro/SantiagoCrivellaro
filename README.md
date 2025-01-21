@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="200" src="https://files.oaiusercontent.com/file-fjbZUyADjnKyB6wtSKUu1uQh?se=2024-10-17T02%3A37%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3a145cd4-5463-4822-9752-afab4a538f18.webp&sig=F%2Bcdcm/8d46Ejs0id0vRB7ro6BDJuObu0QxAtiLTcE4%3D">
+    <img width="200" src="https://avatars.githubusercontent.com/u/177893287?s=400&u=ab493c7b0cb83dcb2e43c7ef6436d5586c63f3a9&v=4">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
