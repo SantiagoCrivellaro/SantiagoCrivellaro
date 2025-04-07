@@ -22,7 +22,7 @@ My own website : https://santiagocrivellaro.github.io/ 😎
 - 🔭 I’m currently working on Java Projects
 - 🌱 I am a young student passionate about programming
 - 🧨 Experience in Spring Boot, JWT & Microservices
-- 📫 7 months ago I started training 
+- 📫 8 months ago I started training 
 - 👯 I really like working in a team
 - 🤔 Here I will share all my projects regardless of language or technology.
 
